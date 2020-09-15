@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/socialgit/static/css/main.dfa0971a.chunk.css",
+    "main.js": "/socialgit/static/js/main.74d1386b.chunk.js",
+    "main.js.map": "/socialgit/static/js/main.74d1386b.chunk.js.map",
+    "runtime-main.js": "/socialgit/static/js/runtime-main.fa1589ae.js",
+    "runtime-main.js.map": "/socialgit/static/js/runtime-main.fa1589ae.js.map",
+    "static/js/2.d4040aea.chunk.js": "/socialgit/static/js/2.d4040aea.chunk.js",
+    "static/js/2.d4040aea.chunk.js.map": "/socialgit/static/js/2.d4040aea.chunk.js.map",
+    "index.html": "/socialgit/index.html",
+    "precache-manifest.1b631ec8716d93e6a85e2d1123af2f03.js": "/socialgit/precache-manifest.1b631ec8716d93e6a85e2d1123af2f03.js",
+    "service-worker.js": "/socialgit/service-worker.js",
+    "static/css/main.dfa0971a.chunk.css.map": "/socialgit/static/css/main.dfa0971a.chunk.css.map",
+    "static/js/2.d4040aea.chunk.js.LICENSE.txt": "/socialgit/static/js/2.d4040aea.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/socialgit/static/media/bg-pattern-top-mobile.f55aa9cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1589ae.js",
+    "static/js/2.d4040aea.chunk.js",
+    "static/css/main.dfa0971a.chunk.css",
+    "static/js/main.74d1386b.chunk.js"
+  ]
+}
