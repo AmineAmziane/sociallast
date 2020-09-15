@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/socialgit/static/css/main.dfa0971a.chunk.css",
-    "main.js": "/socialgit/static/js/main.74d1386b.chunk.js",
-    "main.js.map": "/socialgit/static/js/main.74d1386b.chunk.js.map",
-    "runtime-main.js": "/socialgit/static/js/runtime-main.fa1589ae.js",
-    "runtime-main.js.map": "/socialgit/static/js/runtime-main.fa1589ae.js.map",
-    "static/js/2.d4040aea.chunk.js": "/socialgit/static/js/2.d4040aea.chunk.js",
-    "static/js/2.d4040aea.chunk.js.map": "/socialgit/static/js/2.d4040aea.chunk.js.map",
-    "index.html": "/socialgit/index.html",
-    "precache-manifest.1b631ec8716d93e6a85e2d1123af2f03.js": "/socialgit/precache-manifest.1b631ec8716d93e6a85e2d1123af2f03.js",
-    "service-worker.js": "/socialgit/service-worker.js",
-    "static/css/main.dfa0971a.chunk.css.map": "/socialgit/static/css/main.dfa0971a.chunk.css.map",
-    "static/js/2.d4040aea.chunk.js.LICENSE.txt": "/socialgit/static/js/2.d4040aea.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/socialgit/static/media/bg-pattern-top-mobile.f55aa9cc.svg"
+    "main.css": "/sociallast/static/css/main.eecff368.chunk.css",
+    "main.js": "/sociallast/static/js/main.29a4fa26.chunk.js",
+    "main.js.map": "/sociallast/static/js/main.29a4fa26.chunk.js.map",
+    "runtime-main.js": "/sociallast/static/js/runtime-main.9585016c.js",
+    "runtime-main.js.map": "/sociallast/static/js/runtime-main.9585016c.js.map",
+    "static/js/2.fd9bb900.chunk.js": "/sociallast/static/js/2.fd9bb900.chunk.js",
+    "static/js/2.fd9bb900.chunk.js.map": "/sociallast/static/js/2.fd9bb900.chunk.js.map",
+    "index.html": "/sociallast/index.html",
+    "precache-manifest.14043fe4ff48cc91b84b6e77e7efcb97.js": "/sociallast/precache-manifest.14043fe4ff48cc91b84b6e77e7efcb97.js",
+    "service-worker.js": "/sociallast/service-worker.js",
+    "static/css/main.eecff368.chunk.css.map": "/sociallast/static/css/main.eecff368.chunk.css.map",
+    "static/js/2.fd9bb900.chunk.js.LICENSE.txt": "/sociallast/static/js/2.fd9bb900.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sociallast/static/media/bg-pattern-top-mobile.f55aa9cc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa1589ae.js",
-    "static/js/2.d4040aea.chunk.js",
-    "static/css/main.dfa0971a.chunk.css",
-    "static/js/main.74d1386b.chunk.js"
+    "static/js/runtime-main.9585016c.js",
+    "static/js/2.fd9bb900.chunk.js",
+    "static/css/main.eecff368.chunk.css",
+    "static/js/main.29a4fa26.chunk.js"
   ]
 }
